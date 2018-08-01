@@ -1,0 +1,128 @@
+
+.imgset {
+    width: 400px;
+}
+
+.profile-photo {
+    margin-top: 23px;
+    width: 100%
+}
+.homebody {
+    background-image: url("images/background/spanner-darker.jpg");
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-size:  cover;
+    height: 100vh;
+    padding-top: 10vh;
+    margin: auto;
+}
+
+.gearitemimg{
+    max-height: 400px;
+    max-width: 400px;
+}
+
+/* custom bulma overrides */
+
+.icon-pad {
+    padding-right: 10px;
+}
+
+.submit {
+    width: 60%;
+    margin: auto;
+    display: block
+}
+
+.button-pad {
+    margin-top: 15px;
+}
+
+.profile-tab {
+    margin-top: -15px;
+}
+
+#name {
+    margin-bottom: 10px;
+}
+
+.rating {
+    margin-top: 5px;
+}
+
+.profile {
+    padding-top: 1rem;
+}
+
+#navbar {
+    padding: 3rem 1.5rem 1.5rem 1.5rem;
+}
+
+.profile-gear {
+    padding-top: 4rem;
+}
+.navBarItem {
+  padding-left: 30px;
+}
+
+.add-gear {
+    padding: 3rem;
+}
+
+
+.edit-profile {
+    padding: 3rem;
+}
+
+.navlink a:link {
+  color: black;
+}
+
+.navLink a:visited {
+  color: black;
+}
+
+.navLink a.active {
+  color: hotpink;
+}
+
+.navSpace {
+  padding-left: 30px;
+}
+
+.tool-name {
+    padding-left: 15px;
+}
+
+.gear-item {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+.message {
+    padding: 20px;
+    width: 100%;
+}
+
+.is-search-button {
+    width: 50%;
+    margin: auto;
+}
+
+.tool-pool-name {
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+
+.gear-card {
+    margin-top: 2rem;
+}
+
+#is-gear-item-subcategory1 {
+    margin-bottom: 0.8rem;
+}
+
+#is-gear-item-subcategory2 {
+    margin-bottom: 0.8rem;
+}
